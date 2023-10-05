@@ -34,6 +34,7 @@ op=>op_sig
 
 process 
 begin 
+--27mhz clock	
 clk_sig<='1';
 
 wait for 18.5 ns;
