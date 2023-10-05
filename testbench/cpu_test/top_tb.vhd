@@ -41,12 +41,5 @@ wait for 18.5 ns;
 clk_sig<='0';
 wait for 18.5 ns;
 end process; 
-process 
-begin 
 
-rst_sig<='0';
-wait for 58.5 ns;
-rst_sig<='0';
-wait for 58.5 ns;
-end process; 
 end behave;
