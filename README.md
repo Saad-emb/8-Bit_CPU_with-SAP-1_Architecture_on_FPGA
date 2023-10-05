@@ -59,4 +59,6 @@ To ensure the proper functioning of the CPU and its ability to calculate the Fib
 
 ![image](https://github.com/Saad-emb/8-Bit_CPU_with-SAP-1_Architecture_on_FPGA/assets/123195068/6a39b690-f3e7-415a-8711-606eb1fb266e)
 
+**Demo Video:** See the LEDs representing 8bit of the register  calculating Fibonacci numbers in real-time using frequency divided to see the cpu in action.
+
 ![](https://github.com/Saad-emb/-8-Bit_CPU_with-SAP-1_Architecture_on_FPGA/blob/main/image/test.gif)
